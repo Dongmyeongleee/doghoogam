@@ -1,6 +1,6 @@
-<div align="center">
-![logo](../img.asset/logo.png)
-</div>
+
+![logo](./img.asset/logo.png)
+
 
 ## 🧾목차
 
